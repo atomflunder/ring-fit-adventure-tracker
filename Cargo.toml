@@ -1,0 +1,20 @@
+[package]
+name = "rfa-tracker"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rusqlite = { version = "0.28.0", features = [
+    "bundled",
+    "chrono",
+    "serde_json",
+] }
+chrono = "0.4"
+egui = "0.19.0"
+egui_extras = { version = "0.19", features = ["image"] }
+eframe = "0.19.0"
+image = "0.24"
+serde_json = "1.0"
+serde = { version = "1.0", features = ["derive"] }

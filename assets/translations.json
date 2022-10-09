@@ -1,0 +1,366 @@
+{
+    "lang_names": [
+        "English",
+        "Deutsch"
+    ],
+    "back": [
+        "Back",
+        "Zurück"
+    ],
+    "confirm": [
+        "Confirm",
+        "Bestätigen"
+    ],
+    "cancel": [
+        "Cancel",
+        "Abbruch"
+    ],
+    "skill": [
+        "Skill",
+        "Skill"
+    ],
+    "reps": [
+        "Reps",
+        "Wiederholungen"
+    ],
+    "name": [
+        "Name",
+        "Name"
+    ],
+    "hits": [
+        "Hits",
+        "Trifft"
+    ],
+    "level": [
+        "Level",
+        "Level"
+    ],
+    "time": [
+        "Time",
+        "Zeitpunkt"
+    ],
+    "damage": [
+        "Damage",
+        "Schaden"
+    ],
+    "unlocks": [
+        "Unlocks",
+        "Freigeschaltet"
+    ],
+    "cooldown": [
+        "Cooldown",
+        "Warterunden"
+    ],
+    "hashtags": [
+        "Hashtags",
+        "Hashtags"
+    ],
+    "pending": [
+        "To do",
+        "Ausstehend"
+    ],
+    "lang_select": [
+        "Select a language",
+        "Wählen Sie eine Sprache aus"
+    ],
+    "progress_percent": [
+        "Progress in %",
+        "Fortschritt in %"
+    ],
+    "total": [
+        "Total",
+        "Insgesamt"
+    ],
+    "enter_total_reps": [
+        "Please enter the total amount of reps",
+        "Bitte geben Sie die Anzahl der Wiederholungen insgesamt ein"
+    ],
+    "enter_todays_reps": [
+        "Insert today's reps",
+        "Geben Sie die heutigen Wiederholungen ein"
+    ],
+    "todays_workout": [
+        "Today's workout",
+        "Heutiges Workout"
+    ],
+    "new_reps": [
+        "New reps",
+        "Neue Wiederholungen"
+    ],
+    "confirm_workout": [
+        "Confirm Workout",
+        "Workout Bestätigen"
+    ],
+    "confirm_reps": [
+        "Confirm Reps",
+        "Wiederholungen Bestätigen"
+    ],
+    "show_set_reps": [
+        "Set these reps?",
+        "Diese Wiederholungen Bestätigen?"
+    ],
+    "log_workout": [
+        "Save Today's Workout",
+        "Heutiges Workout speichern"
+    ],
+    "show_workouts": [
+        "Show previous workouts",
+        "Vorherige Workouts ansehen"
+    ],
+    "save_reps": [
+        "Save reps",
+        "Wiederholungen speichern"
+    ],
+    "show_progress": [
+        "Show Progress",
+        "Fortschritt anzeigen"
+    ],
+    "skill_progress": [
+        "Skill Progess",
+        "Skill Fortschritt"
+    ],
+    "skill_info": [
+        "Skill Informations",
+        "Skill Informationen"
+    ],
+    "set_reps": [
+        "Set total reps",
+        "Übungsanzahl festlegen"
+    ],
+    "hashtag_empty": [
+        "",
+        ""
+    ],
+    "hashtag_chest": [
+        "#Chest",
+        "#Brust"
+    ],
+    "hashtag_upper_arms": [
+        "#Upper Arms",
+        "#Oberarme"
+    ],
+    "hashtag_shoulders": [
+        "#Shoulders",
+        "#Schultern"
+    ],
+    "hashtag_trapezius": [
+        "#Trapezius",
+        "#Trapezmuskel"
+    ],
+    "hashtag_core": [
+        "#Core",
+        "#Rumpf"
+    ],
+    "hashtag_glutes": [
+        "#Glutes",
+        "#Po"
+    ],
+    "hashtag_posture": [
+        "#Posture",
+        "#Haltung"
+    ],
+    "hashtag_legs": [
+        "#Legs",
+        "#Beine"
+    ],
+    "hashtag_lower_body": [
+        "#Lower Body",
+        "#Unterkörper"
+    ],
+    "hashtag_abs": [
+        "#Abs",
+        "#Abs"
+    ],
+    "hashtag_waist": [
+        "#Waist",
+        "#Taille"
+    ],
+    "hashtag_stamina": [
+        "#Stamina",
+        "#Ausdauer"
+    ],
+    "hashtag_back": [
+        "#Back",
+        "#Rücken"
+    ],
+    "hashtag_flexibility": [
+        "#Flexibility",
+        "#Beweglichkeit"
+    ],
+    "hashtag_aerobic": [
+        "#Aerobic",
+        "#Bauch"
+    ],
+    "skill_front_press": [
+        "Front Press",
+        "Abwärtspresse"
+    ],
+    "skill_overhead_press": [
+        "Overhead Press",
+        "Überkopfpresse"
+    ],
+    "skill_back_press": [
+        "Back Press",
+        "Nackenpresse"
+    ],
+    "skill_tricep_kickback": [
+        "Tricep Kickback",
+        "Trizeps-Beuge"
+    ],
+    "skill_bow_pull": [
+        "Bow Pull",
+        "Bogenzug"
+    ],
+    "skill_shoulder_press": [
+        "Shoulder Press",
+        "Schulter-Anpresse"
+    ],
+    "skill_overhead_arm_spin": [
+        "Overhead Arm Spin",
+        "Gestrecktes Kreisen"
+    ],
+    "skill_overhead_arm_twist": [
+        "Overhead Arm Twist",
+        "Armdrehung"
+    ],
+    "skill_plank": [
+        "Plank",
+        "Armstütz"
+    ],
+    "skill_leg_raise": [
+        "Leg Raise",
+        "Beinheben"
+    ],
+    "skill_open_and_close_leg_raise": [
+        "Open & Close Leg Raise",
+        "Beine-Auf-&-Zu"
+    ],
+    "skill_overhead_side_bend": [
+        "Overhead Side Bend",
+        "Überkopf Seitbeuge"
+    ],
+    "skill_pendulum_bend": [
+        "Pendulum Bend",
+        "Gebeugter Twist"
+    ],
+    "skill_overhead_bend": [
+        "Overhead Bend",
+        "Überkopf-Beuge"
+    ],
+    "skill_seated_forward_press": [
+        "Seated Forward Press",
+        "Bodenpresse"
+    ],
+    "skill_knee-to-chest": [
+        "Knee-to-Chest",
+        "Beinanziehen"
+    ],
+    "skill_overhead_lunge_twist": [
+        "Overhead Lunge Twist",
+        "Überkopf-Twist"
+    ],
+    "skill_leg_scissors": [
+        "Leg Scissors",
+        "Beinschere"
+    ],
+    "skill_flutter_kick": [
+        "Flutter Kick",
+        "Beinschlag"
+    ],
+    "skill_seated_ring_raise": [
+        "Seated Ring Raise",
+        "Ringheben im Sitzen"
+    ],
+    "skill_russian_twist": [
+        "Russian Twist",
+        "Russian Twist"
+    ],
+    "skill_standing_twist": [
+        "Standing Twist",
+        "Core-Twist"
+    ],
+    "skill_overhead_hip_shake": [
+        "Overhead Hip Shake",
+        "Überkopf Hüftschwung"
+    ],
+    "skill_squat": [
+        "Squat",
+        "Squats"
+    ],
+    "skill_wide_squat": [
+        "Wide Squat",
+        "Sumo-Squats"
+    ],
+    "skill_overhead_squat": [
+        "Overhead Squat",
+        "Überkopf-Squats"
+    ],
+    "skill_thigh_press": [
+        "Thigh Press",
+        "Schenkelpresse"
+    ],
+    "skill_hip_lift": [
+        "Hip Lift",
+        "Hüftheben"
+    ],
+    "skill_mountain_climber": [
+        "Mountain Climber",
+        "Bergsteiger"
+    ],
+    "skill_knee_lift": [
+        "Knee Lift",
+        "Knieheben"
+    ],
+    "skill_side_step": [
+        "Side Step",
+        "Seitschritt mit Heben"
+    ],
+    "skill_ring_raise_combo": [
+        "Ring Raise Combo",
+        "Auf-&-Ab-Kombo"
+    ],
+    "skill_knee-lift_combo": [
+        "Knee-Lift Combo",
+        "Kniehebe-Kombo"
+    ],
+    "skill_chair_pose": [
+        "Chair Pose",
+        "Stuhlhaltung"
+    ],
+    "skill_boat_pose": [
+        "Boat Pose",
+        "Bootshaltung"
+    ],
+    "skill_standing_forward_fold": [
+        "Standing Forward Fold",
+        "Stehende Vorbeuge"
+    ],
+    "skill_tree_pose": [
+        "Tree Pose",
+        "Baumhaltung"
+    ],
+    "skill_hinge_pose": [
+        "Hinge Pose",
+        "Dreieckshaltung"
+    ],
+    "skill_revolved_crescent_lunge_pose": [
+        "Revolved Crescent Lunge Pose",
+        "Seitliche Winkelhaltung"
+    ],
+    "skill_fan_pose": [
+        "Fan Pose",
+        "Kopf-Knie-Haltung"
+    ],
+    "skill_warrior_i_pose": [
+        "Warrior I Pose",
+        "Kriegerhaltung 1"
+    ],
+    "skill_warrior_ii_pose": [
+        "Warrior II Pose",
+        "Kriegerhaltung 2"
+    ],
+    "skill_warrior_iii_pose": [
+        "Warrior III Pose",
+        "Kriegerhaltung 3"
+    ]
+}
