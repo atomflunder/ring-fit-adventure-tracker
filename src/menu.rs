@@ -180,11 +180,13 @@ pub fn log_workout(rfa: &mut RingFitApp, ctx: &Context) {
                     );
                     ui.label(RichText::new(skill.completed_reps.to_string()).color(color));
                     ui.text_edit_singleline(&mut rfa.input_reps[i])
-                        .on_hover_text(
+                        .on_hover_text(format!(
+                            "{}: {}",
                             rfa.menu_names
                                 .get("enter_todays_reps")
-                                .unwrap_or(&"Insert today's reps".to_owned()),
-                        );
+                                .unwrap_or(&"Insert today's reps for".to_owned()),
+                            rfa.skill_names.get(skill).unwrap_or(&"".into())
+                        ));
 
                     ui.end_row();
                 }
@@ -430,11 +432,13 @@ pub fn set_reps(rfa: &mut RingFitApp, ctx: &Context) {
                     );
                     ui.label(RichText::new(skill.completed_reps.to_string()).color(color));
                     ui.text_edit_singleline(&mut rfa.input_reps[i])
-                        .on_hover_text(
+                        .on_hover_text(format!(
+                            "{}: {}",
                             rfa.menu_names
                                 .get("enter_total_reps")
-                                .unwrap_or(&"Please enter the total amount of reps".to_owned()),
-                        );
+                                .unwrap_or(&"Please enter the total amount of reps for".to_owned()),
+                            rfa.skill_names.get(skill).unwrap_or(&"".into())
+                        ));
 
                     ui.end_row();
                 }

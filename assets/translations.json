@@ -72,12 +72,12 @@
         "Insgesamt"
     ],
     "enter_total_reps": [
-        "Please enter the total amount of reps",
-        "Bitte geben Sie die Anzahl der Wiederholungen insgesamt ein"
+        "Enter the total amount of reps for",
+        "Geben Sie die Anzahl der Wiederholungen insgesamt ein für"
     ],
     "enter_todays_reps": [
-        "Insert today's reps",
-        "Geben Sie die heutigen Wiederholungen ein"
+        "Insert today's reps for",
+        "Geben Sie die heutigen Wiederholungen ein für"
     ],
     "todays_workout": [
         "Today's workout",
