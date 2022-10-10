@@ -8,7 +8,7 @@ This project allows you to:
 
 - Log and track your workouts
 - See your progress for title completion
-- Shows you skill informations
+- See skill information
 
 You can see more in the [Screenshots](#screenshots) section
 
